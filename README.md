@@ -179,7 +179,25 @@ A modelagem foi desenvolvida considerando simplicidade construtiva, facilidade d
 
 ## 📸 Evidências
 
-As imagens do circuito eletrônico e da modelagem 3D podem ser encontradas na pasta `/images`.
+### Circuito Eletrônico
+
+![Circuito](images/circuito.png)
+
+### Garra Robótica Montada
+
+![Garra Montada](images/garra_montada_completa.png)
+
+### Vista Explodida do Conjunto
+
+![Vista Explodida](images/vista_explodida_conjunto.png)
+
+### Componentes Modelados
+
+![Componentes](images/componentes_modelagem_3d.png)
+
+### Estrutura Interna e Suporte do Servo
+
+![Estrutura Interna](images/estrutura_interna_servo.png)
 
 ---
 
